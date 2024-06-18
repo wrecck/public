@@ -49,6 +49,8 @@
             margin: 0;
             font-size: 14px;
             color: #385898;
+			    text-align: left;
+
         }
         .comment-content p {
             margin: 5px 0 0 0;
